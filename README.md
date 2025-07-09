@@ -22,3 +22,4 @@ Finally performed the task based on the above information and the task  performe
 
 **OUTPUT**:<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/980da4e8-88a1-45cf-a424-eecbde90e7d7" />
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/840c4e23-7f1b-45fe-93d7-54d24cb5ead3" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/f7bf299f-1b56-4d7b-bbae-f65ce80b43e7" />
