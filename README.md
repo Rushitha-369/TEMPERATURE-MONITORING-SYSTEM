@@ -19,3 +19,6 @@ And also explored on the DHT11 helps in environmental sensing and automation tas
 I understand that interfacing sensors with microcontrollers is a fundamental aspect of embedded systems. It involves connecting a sensor to a microcontroller, reading its output, and processing that data to perform a specific task. The method of interfacing depends on the type of sensor (analog or digital) and the communication protocol it uses.
 I understand the Temperature sensors play a crucial role in embedded systems because many applications rely on accurate temperature monitoring for safety, performance, energy efficiency, and automation.
 Finally performed the task based on the above information and the task  performed based on the temperature sensor to read and display temperature data on an LCD.
+
+**OUTPUT**:<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/980da4e8-88a1-45cf-a424-eecbde90e7d7" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/840c4e23-7f1b-45fe-93d7-54d24cb5ead3" />
